@@ -4,6 +4,12 @@
 **參考資料來源**
 * python 套件介紹 https://reurl.cc/8naykR *
 
+**以下目錄**
+* 安裝pytohn
+* 安裝k8s
+  * 執行腳本(3台虛擬機)
+  * 初始化設定(master)
+
 # 安裝pytohn
 
 **1. 到python首頁下載最新版本python執行檔，並完成安裝。**
