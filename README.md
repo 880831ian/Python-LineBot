@@ -3,10 +3,11 @@
 
 **參考資料來源**
 * python 套件介紹 https://reurl.cc/8naykR *
+* Jupyter 套件介紹 https://reurl.cc/Gr6bXv *
 
 **以下目錄**
 * 安裝pytohn
-* 安裝k8s
+* 安裝Jupyter
   * 執行腳本(3台虛擬機)
   * 初始化設定(master)
 
@@ -37,3 +38,8 @@ pip3 install jupyter
 jupyter notebook  
 ```
 ![image](https://github.com/880831ian/Python-LineBot/blob/main/images/4.PNG)
+![image](https://github.com/880831ian/Python-LineBot/blob/main/images/5.PNG)
+
+**3. 選取New，選python3，開啟新的編輯頁面。**
+
+![image](https://github.com/880831ian/Python-LineBot/blob/main/images/6.)
