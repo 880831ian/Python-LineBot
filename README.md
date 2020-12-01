@@ -22,4 +22,4 @@ https://www.python.org/
 ```
 python ––version
 ```
-![image](https://github.com/880831ian/Python-LineBot/blob/main/images/2.png)
+![image](https://github.com/880831ian/Python-LineBot/blob/main/images/2.PNG)
