@@ -23,3 +23,17 @@ https://www.python.org/
 python ––version
 ```
 ![image](https://github.com/880831ian/Python-LineBot/blob/main/images/2.PNG)
+
+# 安裝Jupyter
+
+**1. 使用Python程式語言的套件管理程式pip來做安裝(由於是版本3所以使用pip3)。**
+```
+pip3 install jupyter    
+```
+![image](https://github.com/880831ian/Python-LineBot/blob/main/images/3.PNG)
+
+**2. 啟動Jupyter網頁服務。**
+```
+jupyter notebook  
+```
+![image](https://github.com/880831ian/Python-LineBot/blob/main/images/4.PNG)
