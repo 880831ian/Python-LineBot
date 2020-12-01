@@ -42,4 +42,4 @@ jupyter notebook
 
 **3. 選取New，選python3，開啟新的編輯頁面。**
 
-![image](https://github.com/880831ian/Python-LineBot/blob/main/images/6.)
+![image](https://github.com/880831ian/Python-LineBot/blob/main/images/6.png)
