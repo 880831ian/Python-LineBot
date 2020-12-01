@@ -8,8 +8,7 @@
 **以下目錄**
 * 安裝pytohn
 * 安裝Jupyter
-  * 執行腳本(3台虛擬機)
-  * 初始化設定(master)
+* 爬蟲撰寫
 
 # 安裝pytohn
 
